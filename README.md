@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Dragonsouls1215
+- 👋 Hi, I’m @IFrostvsDread
 - 👀 I’m interested in programming and writing
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me is on my deviantart or through messages.
 
-Deviantart:
-https://www.deviantart.com/dragonsouls1215
 
 <!---
 Dragonsouls1215/Dragonsouls1215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
