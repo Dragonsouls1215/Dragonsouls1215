@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming and writing
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me is on my deviantart or through messages.
 
 
 <!---
